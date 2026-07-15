@@ -303,10 +303,17 @@ pulsepay-product-analytics/
 │   └── PulsePay_Product_Analytics.pbix
 │
 ├── docs/
+      ├── case-study.md
+      ├── data-dictionary.md
+      ├── methodology.md
+      ├── metric_dictionary.md
+      └── project_charter.md 
 │
+
 ├── python/
 │   ├── data_generation/
-│   │   └── generate_pulsepay_data.py
+│   │   ├── generate_pulsepay_data.py
+│   │   └── load_data_to_mysql.py
 │   │
 │   └── analysis/
 │       ├── experiment_analysis.py
@@ -510,7 +517,7 @@ This project demonstrates practical experience with:
 
 ## Author
 
-**Prince Solanki**
+**Divya Solanki**
 
 B.Tech CSE — Cyber Security  
 Product Analytics | Data Analytics | SQL | Python | Power BI
