@@ -1,0 +1,11 @@
+file_name,row_count,column_count,columns
+acquisition_quality.csv,6,6,"acquisition_channel, acquired_users, kyc_completion_pct, activation_rate_pct, d30_retention_pct, acquisition_quality_score"
+activation_retention.csv,5,5,"early_behavior_group, group_order, users, retained_d30_users, d30_retention_pct"
+cohort_retention.csv,6,8,"cohort_month, cohort_size, M0, M1, M2, M3, M4, M5"
+executive_kpis.csv,1,7,"total_users, total_transactions, successful_transactions, transaction_success_rate_pct, successful_transacting_users, successful_transactor_rate_pct, total_successful_transaction_value"
+experiment_scorecard.csv,2,5,"variant, assigned_users, kyc_completion_rate_pct, support_contact_rate_pct, activation_rate_pct"
+kyc_device_version.csv,7,9,"device_type, app_version, kyc_attempts, completed, failed, abandoned, document_upload_errors, completion_rate_pct, document_upload_error_rate_pct"
+kyc_incident_impact.csv,1,11,"affected_segment, kyc_attempts, completed_kyc, document_upload_errors, actual_completion_rate_pct, baseline_completion_rate_pct, completion_rate_gap_pp, expected_completions_at_baseline, estimated_lost_kyc_completions, post_kyc_activation_rate_pct, estimated_lost_activated_users"
+onboarding_funnel.csv,6,3,"step_order, funnel_step, users"
+weekly_kyc_trend.csv,94,7,"week_start, device_type, app_version, kyc_started, kyc_completed, kyc_failed, kyc_completion_rate_pct"
+weekly_north_star.csv,27,4,"week_start, weekly_successful_transacting_users, successful_transactions, successful_transaction_value"

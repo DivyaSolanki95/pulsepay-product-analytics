@@ -1,0 +1,8 @@
+device_type,app_version,kyc_attempts,completed,failed,abandoned,document_upload_errors,completion_rate_pct,document_upload_error_rate_pct
+Android,5.2,10396,7935,1491,970,0,76.33,0.00
+Android,5.3,14690,11106,2177,1407,0,75.60,0.00
+Android,5.4,5150,2810,1476,864,1476,54.56,28.66
+iOS,5.2,3059,2362,425,272,0,77.21,0.00
+iOS,5.3,4394,3373,626,395,0,76.76,0.00
+iOS,5.4,1498,1167,203,128,0,77.90,0.00
+Web,web-2.1,1657,1263,241,153,0,76.22,0.00

@@ -1,0 +1,2 @@
+affected_segment,kyc_attempts,completed_kyc,document_upload_errors,actual_completion_rate_pct,baseline_completion_rate_pct,completion_rate_gap_pp,expected_completions_at_baseline,estimated_lost_kyc_completions,post_kyc_activation_rate_pct,estimated_lost_activated_users
+Android 5.4,5150,2810,1476,54.56,75.60,21.04,3894,1084,57.62,624

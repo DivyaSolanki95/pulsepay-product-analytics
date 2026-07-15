@@ -1,0 +1,6 @@
+early_behavior_group,group_order,users,retained_d30_users,d30_retention_pct
+0 transactions,1,35811,283,0.79
+1 transaction,2,7041,303,4.30
+2 transactions,3,3433,256,7.46
+3-4 transactions,4,2843,299,10.52
+5+ transactions,5,872,168,19.27

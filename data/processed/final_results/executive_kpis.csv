@@ -1,0 +1,2 @@
+total_users,total_transactions,successful_transactions,transaction_success_rate_pct,successful_transacting_users,successful_transactor_rate_pct,total_successful_transaction_value
+50000,62886,58992,93.81,18636,37.27,21378319.99
