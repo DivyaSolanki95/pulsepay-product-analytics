@@ -519,9 +519,10 @@ This project demonstrates practical experience with:
 
 **Divya Solanki**
 
-B.Tech CSE — Cyber Security  
+B.Tech - Geoinformatics
 Product Analytics | Data Analytics | SQL | Python | Power BI
 
+GitHub: DivyaSolanki95
 ---
 
 ## Project Status
