@@ -356,8 +356,7 @@ pulsepay-product-analytics/
 │       ├── 001_create_dashboard_views.sql
 │       └── 002_create_incident_impact_view.sql
 │
-├── assets/
-│   └── dashboard/
+├
 │
 ├── README.md
 ├── requirements.txt
@@ -535,6 +534,13 @@ This project demonstrates practical experience with:
 
 ---
 
+## Project Status
+
+**Core analytics:** Complete  
+**Statistical experiment analysis:** Complete  
+**Dashboard data layer:** Complete  
+**Power BI dashboard:** Complete  
+**Documentation:** Complete
 ## Author
 
 **Divya Solanki**
