@@ -220,7 +220,27 @@ Focuses on:
 - Statistical significance
 - Experiment decision
 
-> Dashboard screenshots will be added after final Power BI visual polishing.
+---
+
+
+
+### 01 — Executive Overview
+
+![Executive Overview](screenshots/01-executive-overview.png)
+
+### 02 — Growth & Retention
+
+![Growth & Retention](screenshots/02-growth-retention.png)
+
+### 03 — KYC Incident Investigation
+
+![KYC Incident Investigation](screenshots/03-kyc-incident-investigation.png)
+
+### 04 — Experiment Lab
+
+![Experiment Lab](screenshots/04-experiment-lab.png)
+
+---
 
 ---
 
@@ -525,10 +545,3 @@ Product Analytics | Data Analytics | SQL | Python | Power BI
 GitHub: DivyaSolanki95
 ---
 
-## Project Status
-
-**Core analytics:** Complete  
-**Statistical experiment analysis:** Complete  
-**Dashboard data layer:** Complete  
-**Power BI dashboard:** Final visual polish in progress  
-**Documentation:** In progress
