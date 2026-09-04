@@ -532,6 +532,9 @@ This project demonstrates practical experience with:
 - Product recommendations
 - Analytical limitations and responsible interpretation
 
+
+Also authored a PRD proposing a fix for the Android 5.4 KYC drop-off — [link]'.
+
 ---
 
 ## Project Status
